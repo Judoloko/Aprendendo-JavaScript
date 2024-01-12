@@ -1,5 +1,4 @@
-function go(){
-
-  var valueInput = document.getElementById('num').value;
-  alert(valueInput);
+function exibirValor() {
+  var valorDigitado = document.getElementById("num").value
+  alert("Valor digitado: " + valorDigitado)
 }

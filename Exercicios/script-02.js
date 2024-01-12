@@ -15,7 +15,7 @@ function trocarValores() {
     console.log("Após a troca:");
     console.log("Variável A: " + a);
     console.log("Variável B: " + b);
-    alert("Clique com o botão direito do mouse ou aperte F12 va e, console para obter a resposta"
+    alert("Clique com o botão direito do mouse ou aperte F12 va em console para obter a resposta"
     );
   } else {
     alert("Por favor, insira valores para ambos os campos.");
